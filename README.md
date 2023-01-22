@@ -7,10 +7,12 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielEyza&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-<div align="center">  
-<a href="www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="www.Linkedin.com" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-</div>
+<div align="center"> 
+<a href="https://instagram.com/carol_developer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.youtube.com/channel/UCvFCatDtfdvwKKXkndSAPiw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href = "mailto:cmp.1a.caroline@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/carolbarbosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
   
 
 ### Main skills:
