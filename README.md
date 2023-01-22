@@ -1,7 +1,7 @@
-Hi 👋 My name is Guilhermo
+Olá Guys 👋 Me Chamo Daniel
 ==========================
 
-Full Stack Software Developer
+Cientista da Computação
 -----------------------------
 
 I'm a 19 years old developer and hacking since I was 16. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
