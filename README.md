@@ -4,7 +4,6 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DanielEyza&show_icons=true&count_private=true&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=00FF00&bg_color=0d1117" alt="Daniel Pereira da Silva github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielEyza&layout=compact&hide_border=true&title_color=00FF00&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 <div align="center"> 
@@ -22,13 +21,14 @@
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-kubernetes-0D1117?style=for-the-badge&logo=kubernetes&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![html5](https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![Wireshark](https://img.shields.io/badge/-wireshark-0D1117?style=for-the-badge&logo=wireshark&labelColor=0D1117&textColor=0D1117)&nbsp;
+![OpenVAS](https://img.shields.io/badge/-openvas-0D1117?style=for-the-badge&logo=openvas&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![ZAP](https://img.shields.io/badge/-zap-0D1117?style=for-the-badge&logo=zap&labelColor=0D1117)&nbsp;
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
